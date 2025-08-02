@@ -1,10 +1,13 @@
 HR Analytics Dashboard
+
 A comprehensive tool for analyzing employee data to gain insights on attrition, demographic distribution, and departmental performance.
 
 Short Description 
+
 The HR Analytics Dashboard is designed to provide businesses with clear insights into employee attrition rates, demographics, and job roles. This interactive dashboard aims to facilitate data-driven decision-making for HR professionals and management teams.
 
 Tech Stack
+
 The dashboard utilizes the following technologies:
 
 📊 Power BI Desktop – Main data visualization platform for report creation.
