@@ -22,7 +22,7 @@ Data includes employee counts, attrition rates, demographic breakdowns (age, gen
 
  c. Walkthrough of Key Visuals
 
-    1. Key KPIs (Top Left)
+   a. Key KPIs (Top Left)
 
       Total Employees: 1,413
       Total Attrition: 229
@@ -31,22 +31,22 @@ Data includes employee counts, attrition rates, demographic breakdowns (age, gen
       Average Income: $6.5K
       Average Years at Company: 7.04
 
-   2. Attrition by Education Field (Pie Chart)
+   b. Attrition by Education Field (Pie Chart)
 
-   3. Attrition by Age Group (Bar Chart)
+   c. Attrition by Age Group (Bar Chart)
 
-   4. Attrition by Gender (Bar Chart)
+   d. Attrition by Gender (Bar Chart)
 
-   5. Attrition by Salary Slab (Bar Chart)
+   e. Attrition by Salary Slab (Bar Chart)
 
-   6. Attrition by Years at Company (Line Chart)
+   f. Attrition by Years at Company (Line Chart)
 
 6. Business Impact & Insights
 
-  1. Retention Strategies: Identify trends to develop targeted retention initiatives.
+  a. Retention Strategies: Identify trends to develop targeted retention initiatives.
 
-  2. Diversity Understanding: Analyze demographic trends to support diversity and inclusion efforts.
+  b. Diversity Understanding: Analyze demographic trends to support diversity and inclusion efforts.
 
-  3. Salary Benchmarking: Use insights to adjust compensation strategies based on attrition demographics.
+  c. Salary Benchmarking: Use insights to adjust compensation strategies based on attrition demographics.
 
   4. Workforce Planning: Assist management in planning recruitment efforts based on attrition insights.
