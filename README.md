@@ -43,7 +43,10 @@ Data includes employee counts, attrition rates, demographic breakdowns (age, gen
 
 6. Business Impact & Insights
 
-Retention Strategies: Identify trends to develop targeted retention initiatives.
-Diversity Understanding: Analyze demographic trends to support diversity and inclusion efforts.
-Salary Benchmarking: Use insights to adjust compensation strategies based on attrition demographics.
-Workforce Planning: Assist management in planning recruitment efforts based on attrition insights.
+  1. Retention Strategies: Identify trends to develop targeted retention initiatives.
+
+  2. Diversity Understanding: Analyze demographic trends to support diversity and inclusion efforts.
+
+  3. Salary Benchmarking: Use insights to adjust compensation strategies based on attrition demographics.
+
+  4. Workforce Planning: Assist management in planning recruitment efforts based on attrition insights.
